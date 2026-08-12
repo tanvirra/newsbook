@@ -1,0 +1,2 @@
+# newsbook
+Daily news aggregator
