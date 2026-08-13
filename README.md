@@ -1,2 +1,2 @@
 # newsbook
-Daily news aggregator
+Your Daily News Feeds
